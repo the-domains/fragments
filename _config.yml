@@ -1,7 +1,7 @@
 name: Fragments
 favicon: null
-layout_spectrum: 0.8726711871568114
-typography_spectrum: 0.23296161298640072
+layout_spectrum: 1
+typography_spectrum: 0.2509
 cta:
   domain: null
   bucket: null
