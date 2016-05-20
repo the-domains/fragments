@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Tick tock, tick tock, tick tock. It's 5pm on my clock at home. Eight hours, fifty minutes left till my flight to Trinidad. I always hate the hours before a big flight. I feel like I'm just waiting and waiting and waiting. "
-datePublished: '2016-05-13T21:17:48.978Z'
-dateModified: '2016-05-13T21:17:14.939Z'
+datePublished: '2016-05-20T02:02:53.531Z'
+dateModified: '2016-05-13T23:01:31.303Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-13-tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom.md
+starred: false
 url: tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom/index.html
 _type: Article
 
