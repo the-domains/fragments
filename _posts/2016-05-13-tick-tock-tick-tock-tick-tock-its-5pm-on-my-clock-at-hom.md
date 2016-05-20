@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Tick tock, tick tock, tick tock. It's 5pm on my clock at home. Eight hours, fifty minutes left till my flight to Trinidad. I always hate the hours before a big flight. I feel like I'm just waiting and waiting and waiting. "
-datePublished: '2016-05-20T04:16:47.802Z'
-dateModified: '2016-05-20T02:04:50.363Z'
+datePublished: '2016-05-20T12:44:11.927Z'
+dateModified: '2016-05-20T12:44:11.262Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom.md
@@ -17,6 +17,8 @@ url: tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feea70bd-4dea-4553-93a2-7b7720197cb9.jpg)
+
 Tick tock, tick tock, tick tock. It's 5pm on my clock at home. Eight hours, fifty minutes left till my flight to Trinidad. I always hate the hours before a big flight. I feel like I'm just waiting and waiting and waiting. 
 
 A friend is having a lime at Mt. Irvine beach for her brother, who's visiting from the states. I'm supposed to be there for six but I'm nowhere near ready. I don't really want to wait at home, but I don't really want to go either.
@@ -104,4 +106,3 @@ I wrap it discretely in my fists and put it into the bin before proceeding to bo
 As the plane takes off for Piarco I'm filled with euphoria. 
 
 'Damn great start,' I think, 'this trip is gonna be awesome!'
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/314f1817-1728-4e47-a59f-a10a77bee000.jpg)
