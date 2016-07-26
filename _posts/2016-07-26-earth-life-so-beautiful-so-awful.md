@@ -1,14 +1,14 @@
 ---
 author: []
-dateModified: '2016-07-26T03:53:55.317Z'
-description: 'Earth... Life... So beautiful, so awful '
+dateModified: '2016-07-26T03:57:48.631Z'
+datePublished: '2016-07-26T03:58:02.842Z'
+description: 'Earth... Life... So beautiful, so awful'
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/07825174-e197-4c44-b8c9-6615c25c6b5c.jpg
 publisher: {}
 title: ''
 via: {}
-datePublished: '2016-07-26T03:54:32.431Z'
 starred: false
 sourcePath: _posts/2016-07-26-earth-life-so-beautiful-so-awful.md
 _context: 'http://schema.org'
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07825174-e197-4c44-b8c9-6615c25c6b5c.jpg)
 
-Earth... Life... So beautiful, so awful 
+Earth... Life... So beautiful, so awful
 
 I stand in the shade of a "Glory Cedar" tree as rain drops drip softly unto the sand around me. The birds, once so loud, have gone quiet leaving me with only the sound of the ocean waves breaking beside me.   
 As I gaze at the sky through glistening droplets on lush, green leaves, I can't help but smile. For a fleeting moment, I catch a glimpse of eternity, and all is well in the world.   
@@ -48,3 +48,9 @@ They suffered through it. And so must you right? Thanks for the heads up. Maybe 
 It doesn't help that many major decisions have been made. You spent your late teens preparing for for a job that turns out to be shit. Then you're racing to get shit sorted before you turn 30\. Ain't that a bitch?
 
 Personally, I blame myself for being so clueless about it all...
+
+.....
+
+I woke up this morning feeling like so much shit. Struggled through the day with to help of a Full Throttle. Felt so amazing at the beach, then fell right back down again. Such a roller-coaster ride. 
+
+Fucking Mondays... And the week's just getting started.
