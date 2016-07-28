@@ -5,13 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chapter One - Tobago
-datePublished: '2016-07-28T02:12:44.004Z'
-dateModified: '2016-07-15T00:53:05.952Z'
+datePublished: '2016-07-28T02:13:46.340Z'
+dateModified: '2016-07-28T02:12:51.947Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom/index.html
 _type: Article
