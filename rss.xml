@@ -4,8 +4,15 @@
         <description><![CDATA[Life in My Head]]></description>
         <link>https://thegrid.ai/fragments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 02:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 02:12:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fragments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life in my Head]]></title>
+            <description><![CDATA[<p>Chapter One - Tobago</p>]]></description>
+            <link>https://thegrid.ai/fragments/tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom/index.html</link>
+            <guid isPermaLink="false">e823b772-dd0d-4495-981f-95dc9e00d11c</guid>
+            <pubDate>Thu, 28 Jul 2016 02:12:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Sleep eludes, Trouble ensues, And a keypress Can take you to your deepest ViewsThe story of my life, The highs and the strifes. Half assed attempts. Life broken: Fragments Ladies and gents, I present,Life in my head - Still alive or dead?"  Were the words he said.To their oos and ahhs. He reached for the stars And landed on Mars. He slips off their bras,Foot mashing the gas.One of countless humans:Unmanifest </p>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/fragments/grafton-fire-night/index.html</link>
             <guid isPermaLink="false">529e260f-a925-445c-be09-ebf577371ec2</guid>
             <pubDate>Tue, 26 Jul 2016 03:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life in my Head]]></title>
-            <description><![CDATA[<p>Life in my Head: Chapter One - Tobago</p>]]></description>
-            <link>https://thegrid.ai/fragments/tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom/index.html</link>
-            <guid isPermaLink="false">e823b772-dd0d-4495-981f-95dc9e00d11c</guid>
-            <pubDate>Fri, 15 Jul 2016 00:50:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
