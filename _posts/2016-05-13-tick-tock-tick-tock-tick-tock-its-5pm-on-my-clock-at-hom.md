@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Life in my Head: Chapter One - Tobago'
-datePublished: '2016-07-15T00:50:58.012Z'
-dateModified: '2016-07-15T00:50:44.283Z'
+description: Chapter One - Tobago
+datePublished: '2016-07-28T02:12:44.004Z'
+dateModified: '2016-07-15T00:53:05.952Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-tick-tock-tick-tock-tick-tock-its-5pm-on-my-clock-at-hom.md
@@ -19,7 +19,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feea70bd-4dea-4553-93a2-7b7720197cb9.jpg)
 
-Life in my Head: Chapter One - Tobago
+Chapter One - Tobago
 
 Tick-tock. Tick-tock. Goes the proverbial clock. My watch says 5pm as I glance at it anxiously. Eight hours, fifty minutes left till my flight.   
 Fuck. It's a long time, but it feels like any minute now.
