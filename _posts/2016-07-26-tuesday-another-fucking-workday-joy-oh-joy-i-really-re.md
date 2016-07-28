@@ -1,19 +1,19 @@
 ---
 author: []
-dateModified: '2016-07-26T12:39:18.838Z'
-datePublished: '2016-07-26T12:39:30.187Z'
+dateModified: '2016-07-26T12:39:33.039Z'
+datePublished: '2016-07-28T02:13:32.794Z'
 description: >-
   Tuesday... Another fucking workday. Joy Oh joy. I really, really don't wanna
   go to work today. Wish I could sit here and write until I feel like doing
-  something else.  That's really important to me. Being able to do what I feel
+  something else. That's really important to me. Being able to do what I feel
   like more often. Not always, I don't think that is possible, just more often
   than not.
 inFeed: true
 publisher: {}
 title: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-07-26-tuesday-another-fucking-workday-joy-oh-joy-i-really-re.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
@@ -35,3 +35,4 @@ I'm whining too much you say? Get wrekt. It's just so damn ridiculous to lose su
 
 Maybe I'm just selfish, but more me time is always a good thing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f176d8-fba0-4223-8cff-b933fe189a53.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ae908af-d8fa-42a0-970b-ae2a8d452d8a.jpg)
