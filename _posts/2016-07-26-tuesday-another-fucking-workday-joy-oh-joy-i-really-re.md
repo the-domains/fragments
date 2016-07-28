@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-26T12:39:33.039Z'
-datePublished: '2016-07-28T02:13:32.794Z'
+dateModified: '2016-07-28T02:15:54.367Z'
+datePublished: '2016-07-28T03:05:18.383Z'
 description: >-
   Tuesday... Another fucking workday. Joy Oh joy. I really, really don't wanna
   go to work today. Wish I could sit here and write until I feel like doing
@@ -13,6 +13,12 @@ publisher: {}
 title: ''
 via: {}
 sourcePath: _posts/2016-07-26-tuesday-another-fucking-workday-joy-oh-joy-i-really-re.md
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+authors: []
 starred: false
 _context: 'http://schema.org'
 _type: Article
