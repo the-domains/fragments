@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-18T16:11:23.337Z'
-dateModified: '2016-08-18T16:11:11.721Z'
+datePublished: '2016-08-18T16:20:20.387Z'
+dateModified: '2016-08-18T16:20:14.921Z'
 publisher: {}
 author: []
 inFeed: true
