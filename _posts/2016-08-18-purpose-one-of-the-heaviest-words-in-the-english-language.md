@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-18T16:20:20.387Z'
-dateModified: '2016-08-18T16:20:14.921Z'
+datePublished: '2016-08-18T17:25:41.924Z'
+dateModified: '2016-08-18T16:21:18.682Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,8 +12,8 @@ description: >-
   Purpose. One of the heaviest words in the English language. As I sit here on
   yet another beach, I can't help but to contemplate it's deeper meanings.
 via: {}
-starred: true
 sourcePath: _posts/2016-08-18-purpose-one-of-the-heaviest-words-in-the-english-language.md
+starred: true
 _type: Blurb
 
 ---
@@ -28,3 +28,5 @@ What am I supposed to do with this life I am given? Some would say anything you 
 Some days, my purpose feels really clear: Write awesome shit and share with the world.
 
 Other days it's fuzzy and difficult, like the world just wants to make me curl up in a ball and lose my mind in all its unfathomable ness.
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be704e2-d149-4342-a447-2e56d2662ae5.jpg" /></article>
