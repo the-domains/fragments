@@ -8,15 +8,15 @@ keywords: []
 description: >-
   Purpose. One of the heaviest words in the English language. As I sit here on
   yet another beach, I can't help but to contemplate it's deeper meanings.
-datePublished: '2016-08-18T16:01:20.309Z'
-dateModified: '2016-08-18T16:01:02.220Z'
+datePublished: '2016-08-18T16:09:11.056Z'
+dateModified: '2016-08-18T16:08:21.800Z'
 author: []
 title: ''
 via: {}
+sourcePath: _posts/2016-08-18-purpose-one-of-the-heaviest-words-in-the-english-language.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-18-purpose-one-of-the-heaviest-words-in-the-english-language.md
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
