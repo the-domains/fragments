@@ -1,24 +1,20 @@
 ---
+keywords: []
+title: ''
+datePublished: '2016-08-18T16:11:23.337Z'
+dateModified: '2016-08-18T16:11:11.721Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
 description: >-
   Purpose. One of the heaviest words in the English language. As I sit here on
   yet another beach, I can't help but to contemplate it's deeper meanings.
-datePublished: '2016-08-18T16:09:11.056Z'
-dateModified: '2016-08-18T16:08:21.800Z'
-author: []
-title: ''
 via: {}
-sourcePath: _posts/2016-08-18-purpose-one-of-the-heaviest-words-in-the-english-language.md
-authors: []
-publisher: {}
 starred: true
-_context: 'http://schema.org'
-_type: Article
+sourcePath: _posts/2016-08-18-purpose-one-of-the-heaviest-words-in-the-english-language.md
+_type: Blurb
 
 ---
 Purpose. One of the heaviest words in the English language. As I sit here on yet another beach, I can't help but to contemplate it's deeper meanings.
