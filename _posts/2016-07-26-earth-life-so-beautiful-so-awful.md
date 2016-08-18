@@ -1,16 +1,25 @@
 ---
-author: []
-dateModified: '2016-07-26T04:05:08.859Z'
-datePublished: '2016-07-26T04:05:39.866Z'
-description: 'Earth... Life... So beautiful, so awful. '
 inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/07825174-e197-4c44-b8c9-6615c25c6b5c.jpg
-publisher: {}
+inLanguage: null
+keywords: []
+description: 'Earth... Life... So beautiful, so awful. '
+datePublished: '2016-08-18T16:02:47.871Z'
+dateModified: '2016-08-18T16:02:06.995Z'
+author: []
 title: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-07-26-earth-life-so-beautiful-so-awful.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
@@ -21,8 +30,7 @@ Earth... Life... So beautiful, so awful.
 
 I stand in the shade of a "Glory Cedar" tree as rain drops drip softly unto the sand around me. The birds, once so loud, have gone quiet leaving me with only the sound of the ocean waves breaking beside me. 
 
-As I gaze at the sky through glistening droplets on lush, green leaves, I can't help but smile. For a fleeting moment, I catch a glimpse of eternity, and all is well in the world.   
-It is like I've stolen a moment of time for myself. And for you, because it is for you, dear reader, that I write.
+As I gaze at the sky through glistening droplets on lush, green leaves, I can't help but smile. For a fleeting moment, I catch a glimpse of eternity, and all is well in the world. It is like I've stolen a moment of time for myself, and for you, because it is for you, dear reader, that I write.
 
 Despite the isolation, I've never felt more connected. To the air, to the water, to the earth and to the fire of life. I wish I could have this moment forever, but I feel as though I must return to life. Are these moments too good to last forever?
 
